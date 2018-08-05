@@ -16,9 +16,9 @@ Segmentar imagens de pílulas ilícitas: separar pílulas do fundo.
 
 ##### Crescimento de regiões
 + Propor um método para obtenção de sementes
-  ++ Deve funcionar para imagens com uma ou mais pílulas
-  ++ Baseado no nível de cinza
-  ++ Semente na borda
+  + Deve funcionar para imagens com uma ou mais pílulas
+  + Baseado no nível de cinza
+  + Semente na borda
 
 + Propor um critério de similaridade para agregação de pixels.
 + Identificar os parâmetros necessários para ajustar corretamente o método de segmentação proposto. 
