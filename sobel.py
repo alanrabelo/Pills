@@ -105,6 +105,5 @@ def displayCircles(A, file_path):
         circle.append(plt.Circle((y,x),r,color=(1,0,0),fill=False))
         fig.add_subplot(111).add_artist(circle[-1])
     plt.show()
-    return circleCoordinates
 
 
